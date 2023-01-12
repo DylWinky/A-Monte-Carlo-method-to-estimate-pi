@@ -4,9 +4,9 @@
 ## Approach 
 
 A monte Carlo method uses random sampling to obtain numerical results. In the case of determining pi, we can first imagine a circle quadrant contained within a unit square: 
-
-<img src = "circle_quadrant_within_a_unit_square.png" align="center" size="35">
-
+<p align="center">
+  <img src="circle_quadrant_within_a_unit_square.png" width="300" height="300" />
+</p>
 It can be shown that a circle quadrant of radius $r$, within a square of side length $z$, that:
 $$A_{quadrant} = \frac{\pi r^2}{4} = \frac{\pi z^2}{4} = \frac{\pi}{4}A_{sqaure}  $$ 
 and therefore:
