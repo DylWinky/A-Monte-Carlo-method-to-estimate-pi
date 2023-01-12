@@ -4,7 +4,7 @@
 ## Approach 
 
 A monte Carlo method uses random sampling to obtain numerical results. In the case of determining pi, we can first imagine a circle quadrant contained within a unit square: 
-
+![png](circle quadrant within a unit square.png)
 ![png](circle quadrant within a unit square.png)
 ![png](output_10_0.png)
 
